@@ -5,18 +5,17 @@ Hi, I'm Yash Yadav, the Co-Founder and CEO of Spartificial. With a passion for M
 I'm currently working on [Project Name], which aims to [Project Goal]. This project involves [Brief Description]. If you're interested in contributing, feel free to fork the repository and submit a pull request.
 
 ### Skills
-Machine Learning
-Deep Learning
-Python
-TensorFlow
-PyTorch
-SQL
+- Machine Learning
+- Deep Learning
+- Python
+- TensorFlow
+- PyTorch
+- SQL
 
 ### Interests
-Reinforcement Learning
-Natural Language Processing
-Computer Vision
-Generative Models
+- Space Science
+- Computer Vision
+- Generative Models
 
 ### Contact Information
 You can reach me via Linkedin or Instagram.
