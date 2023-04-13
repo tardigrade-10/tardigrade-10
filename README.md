@@ -8,9 +8,8 @@ I'm currently working on [this](https://github.com/tardigrade-10/cloudrm). If yo
 - Machine Learning
 - Deep Learning
 - Python
-- TensorFlow
 - PyTorch
-- SQL
+- Flask
 
 ### Interests
 - Space Science
