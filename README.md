@@ -1,16 +1,22 @@
-### Hi there 👋
+### Introduction
+Hi, I'm Yash Yadav, the Co-Founder and CEO of Spartificial. With a passion for Machine Learning and AI, I enjoy working on innovative projects that push the boundaries of what's possible. In addition to my leadership role at Spartificial, I'm also a hands-on ML Engineer.
 
-<!--
-**tardigrade-10/tardigrade-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Current Project
+I'm currently working on [Project Name], which aims to [Project Goal]. This project involves [Brief Description]. If you're interested in contributing, feel free to fork the repository and submit a pull request.
 
-Here are some ideas to get you started:
+### Skills
+Machine Learning
+Deep Learning
+Python
+TensorFlow
+PyTorch
+SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
+Reinforcement Learning
+Natural Language Processing
+Computer Vision
+Generative Models
+
+### Contact Information
+You can reach me via Linkedin or Instagram.
