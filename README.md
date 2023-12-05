@@ -1,15 +1,14 @@
 ### Introduction
-Hi, I'm Yash Yadav, the Co-Founder and CEO of Spartificial. With a passion for Machine Learning and AI, I enjoy working on innovative projects that push the boundaries of what's possible. In addition to my leadership role at Spartificial, I'm also a hands-on ML Engineer.
+Hi, I'm Yash Yadav, the Founder and Director of [Spartificial](https://spartificial.com/). With a passion for Machine Learning and AI, I enjoy working on innovative projects that push the boundaries of what's possible. In addition to my leadership role at Spartificial, I'm also a hands-on ML Engineer.
 
 ### Current Project
-I'm currently working on a private project, related to LLMs. If you're interested in contributing, connect with me via email or linkedin.
+I'm currently working several inhouse ML projects in Spartificial and some of my personal projects, mostly related to LLMs. If you're interested in contributing, connect with me via email or linkedin.
 
-### Skills
-- Machine Learning
-- Deep Learning
+### Tools
 - Python
-- PyTorch
-- Flask
+- TF, PyTorch
+- GPTs, LLMs
+- FastAPI
 
 ### Interests
 - Space Science
